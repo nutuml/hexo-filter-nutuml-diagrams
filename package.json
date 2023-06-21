@@ -1,0 +1,32 @@
+{
+  "name": "hexo-filter-nutuml-diagrams",
+  "version": "0.1.0",
+  "description": "nutuml diagrams for hexo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nutuml/hexo-filter-nutuml-diagrams.git"
+  },
+  "keywords": [
+    "hexo-filter-nutuml-diagrams",
+    "hexo-filter-nutuml",
+    "hexo-filter",
+    "nutuml"
+  ],
+  "author": "junfengliang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nutuml/hexo-filter-nutuml-diagrams/issues"
+  },
+  "homepage": "https://github.com/nutuml/hexo-filter-nutuml-diagramss#readme",
+  "dependencies": {
+    
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {}
+}
